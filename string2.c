@@ -1,6 +1,9 @@
-223049656	Sep/12/2023 13:37UTC+6	eshat69	A - Way Too Long Words	GNU C11	Accepted	15 ms	0 KB
-## A. Way Too Long Words
+## Problem A. Way Too Long Words
+
 https://codeforces.com/contest/71/problem/A
+223049656	Sep/12/2023 13:37UTC+6	eshat69	A - Way Too Long Words	GNU C11	Accepted	15 ms	0 KB
+### Code (C):
+
 #include<stdio.h>
 #include<string.h>
 int main () {
