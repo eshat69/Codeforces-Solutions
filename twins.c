@@ -1,3 +1,8 @@
+## problem: (A) Twins
+
+https://codeforces.com/contest/160/problem/A
+// 2223829899	Sep/18/2023 17:41UTC+6	eshat69	A - Twins	GNU C11	Accepted	30 ms	0 KB
+### Code (C):
 #include<stdio.h>
 int main (){
     int n,i,j,temp,sum=0;
