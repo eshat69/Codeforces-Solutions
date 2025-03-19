@@ -1,3 +1,9 @@
+## Problem 4A: A. Bear and Big Brother
+
+https://codeforces.com/contest/791/problem/A
+/223469929	Sep/15/2023 17:14UTC+6	eshat69	A - Bear and Big Brother	GNU C11	Accepted	31 ms	0 KB
+### Code (C):
+
 #include <stdio.h>
 #include <math.h>
 int main() {
