@@ -1,3 +1,9 @@
+## Problem A. Presents
+
+https://codeforces.com/contest/136/problem/A
+224585636	Sep/22/2023 15:49UTC+6	eshat69	A - Presents	GNU C11	Accepted	62 ms	0 KB
+### Code (C):
+    
 #include<stdio.h>
 int main (){
     int n,i,temp ;
