@@ -1,3 +1,8 @@
+## Problem A. Hulk
+
+https://codeforces.com/contest/705/problem/A
+225068101	Sep/25/2023 17:35UTC+6	eshat69	A - Hulk	GNU C11	Accepted	30 ms	0 KB
+### Code (C):
 #include<stdio.h>
 int main() {
     int n, i;
