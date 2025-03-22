@@ -1,3 +1,9 @@
+## Problem A. Anton and Letters
+
+https://codeforces.com/contest/443/problem/A
+225770707	Sep/29/2023 17:49UTC+6	eshat69	A - Anton and Letters	GNU C11	Accepted	15 ms	0 KB
+### Code (C):
+
 #include <stdio.h>
 int main() {
     int arr[26] = {0} ,i, count = 0 ;
