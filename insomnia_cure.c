@@ -1,3 +1,8 @@
+## Problem A. Insomnia cure
+
+https://codeforces.com/contest/148/problem/A
+225625756	Sep/28/2023 15:35UTC+6	eshat69	A - Insomnia cure	GNU C11	Accepted	62 ms	0 KB
+### Code (C):
 #include<stdio.h>
 int main (){
     int i,k,l,m,n,d,count = 0 ;
