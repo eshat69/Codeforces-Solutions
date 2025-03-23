@@ -1,3 +1,9 @@
+## Problem 	A - Police Recruits
+
+https://codeforces.com/contest/427/problem/A
+226152783	Oct/01/2023 17:25UTC+6	eshat69	A - Police Recruits	GNU C11	Accepted	31 ms	0 KB
+### Code (C):
+    
 #include <stdio.h>
 int main() {
     int n, s = 0, t, crime = 0;
