@@ -1,3 +1,9 @@
+## Problem B. Balanced Array
+
+https://codeforces.com/contest/1343/problem/B
+226400857	Oct/03/2023 14:47UTC+6	eshat69	B - Balanced Array	GNU C11	Accepted	826 ms	0 KB
+### Code (C):
+	
 #include<stdio.h>
 int tc,n,i,j;
 int main(){
