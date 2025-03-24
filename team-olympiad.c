@@ -1,3 +1,9 @@
+## Problem	A - Team Olympiad
+
+https://codeforces.com/contest/490/problem/A
+226976073	Oct/07/2023 14:13UTC+6	eshat69	A - Team Olympiad	GNU C11	Accepted	31 ms	100 KB
+### Code (C):
+
 #include <stdio.h>
 #include <string.h>
 int main(){
