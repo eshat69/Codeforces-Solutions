@@ -1,3 +1,10 @@
+## Problem D. Connect the Dots
+
+https://codeforces.com/contest/2020/problem/D
+289303687	Nov/02/2024 00:23UTC+6	eshat69	D - Connect the Dots	C++17 (GCC 7-32)	Accepted	171 ms	15300 KB
+### Code (C):
+
+
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
