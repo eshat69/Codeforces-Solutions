@@ -1,3 +1,9 @@
+## Problem D. Yet Another Real Number Problem
+
+https://codeforces.com/contest/2035/problem/D
+290445851	Nov/08/2024 00:04UTC+6	eshat69	D - Yet Another Real Number Problem	Python 3	Accepted	1952 ms	27200 KB
+### Code (python):
+
 def cmp(x, y, z):
     return z > 30 or x < y * (1 << z)
 def solve():
