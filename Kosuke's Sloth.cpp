@@ -1,3 +1,9 @@
+## Problem F. Kosuke's Sloth
+
+https://codeforces.com/contest/2033/problem/F
+288802354	Oct/30/2024 01:31UTC+6	eshat69	F - Kosuke's Sloth	C++17 (GCC 7-32)	Accepted	93 ms	100 KB
+### Code (C++):
+
 
 #include<bits/stdc++.h>
 using namespace std;
