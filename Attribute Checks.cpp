@@ -1,4 +1,11 @@
 
+## Problem D - Attribute Checks
+
+https://codeforces.com/contest/2025/problem/D
+289060992	Nov/01/2024 02:00UTC+6	eshat69	D - Attribute Checks	C++17 (GCC 7-32)	Accepted	515 ms	7900 KB
+### Code (C++):
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
