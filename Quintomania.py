@@ -1,3 +1,9 @@
+## Problem A. Quintomania
+
+https://codeforces.com/contest/2036/problem/A
+289597895	Nov/02/2024 22:49UTC+6	eshat69	A - Quintomania	Python 3	Accepted	61 ms	0 KB
+### Code (python):
+
 # Number of test cases
 t = int(input())
 
