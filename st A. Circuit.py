@@ -1,3 +1,10 @@
+## Problem A - Circuit
+
+https://codeforces.com/contest/2032/problem/A
+289222822	Nov/01/2024 21:08UTC+6	eshat69	A - Circuit	Python 3	Accepted	77 ms	0 KB
+### Code (python):
+
+
 t = int(input().strip())
 results = []
 for _ in range(t):
