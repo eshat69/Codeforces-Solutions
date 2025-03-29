@@ -1,3 +1,8 @@
+## Problem D. Infinite Set
+
+http://codeforces.com/contest/1635/problem/D
+289307413	Nov/02/2024 00:42UTC+6	eshat69	D - Infinite Set	C++17 (GCC 7-32)	Accepted	780 ms	10900 KB
+### Code (C++):
 
 #include <bits/stdc++.h>
 using namespace std;
