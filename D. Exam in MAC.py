@@ -1,3 +1,9 @@
+## Problem D. Exam in MAC
+
+https://codeforces.com/contest/1935/problem/D
+290452850	Nov/08/2024 00:50UTC+6	eshat69	D - Exam in MAC	Python 3	Accepted	280 ms	35300 KB
+### Code (python):
+
 import sys
 R = lambda: map(int, next(sys.stdin).split())
 t,=R()
