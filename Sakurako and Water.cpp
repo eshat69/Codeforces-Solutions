@@ -1,3 +1,10 @@
+## Problem B - Sakurako and Water
+
+https://codeforces.com/contest/2033/problem/B
+287741919	Oct/24/2024 21:28UTC+6	eshat69	B - Sakurako and Water	C++17 (GCC 7-32)	Accepted	593 ms	100 KB
+### Code (C++):
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
