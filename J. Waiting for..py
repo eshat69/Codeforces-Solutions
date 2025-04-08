@@ -1,3 +1,9 @@
+## Problem J - Waiting for...
+
+https://codeforces.com/contest/2038/problem/J
+292203335	Nov/18/2024 20:39UTC+6	eshat69	J - Waiting for...	Python 3	Accepted	93 ms	0 KB
+### Code (python):
+
 def can_monocarp_board(n, events):
     waiting_people = 0
     result = []
