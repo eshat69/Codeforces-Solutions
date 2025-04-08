@@ -1,3 +1,9 @@
+## Problem F. Selling a Menagerie
+
+https://codeforces.com/contest/1872/problem/F
+292234781	Nov/19/2024 00:07UTC+6	eshat69	F - Selling a Menagerie	Python 3	Accepted	858 ms	36400 KB
+### Code (python):
+
 from sys import stdin, setrecursionlimit
 # from math import gcd
 # from collections import deque
