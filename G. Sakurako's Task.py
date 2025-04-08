@@ -1,3 +1,9 @@
+## Problem G. Sakurako's Task
+
+https://codeforces.com/contest/2008/problem/G
+291489181	Nov/15/2024 00:04UTC+6	eshat69	G - Sakurako's Task	Python 3	Accepted	328 ms	25300 KB
+### Code (python):
+
 import math
 for tc in range(int(input())):
   n, k = map(int, input().split())
