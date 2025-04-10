@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:print('NYOE S'['11'in f'1{s[:-1]}1'::2])
