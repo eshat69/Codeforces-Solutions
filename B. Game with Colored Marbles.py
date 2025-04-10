@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:a=s.split();a=*map(a.count,{*a}),;print(len(a)+a.count(1)%2)
