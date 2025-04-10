@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:print(len(a:=s.split())-len({*a}))
