@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:print(('Bob','Alice')[sum(map(int,s.split()))%2])
